@@ -25,7 +25,7 @@ Before you begin, ensure you have a modern web browser installed, such as Chrome
 git clone https://github.com/yourusername/currency-converter.git
 cd currency-converter
 
-<b>Open the Application</b>
+Open the Application
 Simply open the index.html file in your browser:
 
 open index.html  # For macOS
